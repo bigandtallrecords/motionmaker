@@ -1,4 +1,17 @@
-## Motion Maker for Blender Add-on
+# Motion Maker
+
+Blender addon to add natural motion to objects.
+
+## Installation
+
+1. Download the latest release zip file from the [releases](https://github.com/yourusername/motion-maker/releases) section.
+2. In Blender, go to `Edit > Preferences > Add-ons > Install`.
+3. Select the downloaded zip file and click `Install Add-on`.
+4. Enable the addon in the preferences.
+
+## Usage
+
+Go to `View3D > Motion Maker` to use the addon.
 
 A Blender addon for making any object wiggle or wobble based off of the origin.
 
@@ -7,27 +20,6 @@ https://bigandtallrecords.com/code
 
 dontations welcome
  https://www.paypal.com/paypalme/DanielOdom
-
-❤️
-
-## Requirements
-
-- Blender 4.1
-
-## Installation
-
-1. Download the .zip or clone Repo
-   ```bash
-   git clone https://github.com/bigandtallrecords/motionmaker.git
-   cd motionmaker
-   ```
-2. Add to blender Add-On in Prefs.
-````
-   In Prefs add the .zip
-   In 3d view use the "N" menu to reveal 'motionmaker'
-   ``````
- ## Usage
- - basically uses noise to generate random movement from origin
 
  ![Alt text](images/youtube.png)
 

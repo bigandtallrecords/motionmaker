@@ -2,7 +2,7 @@ bl_info = {
     "name": "Motion Maker",
     "author": "danieldifferent",
     "version": (1, 2),
-    "blender": (3, 6, 0),
+    "blender": (4, 1, 0),
     "location": "View3D > Motion Maker",
     "description": "Add natural motion to an object",
     "website": "https://bigandtallrecords.com/",
