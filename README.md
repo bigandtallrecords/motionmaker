@@ -4,7 +4,7 @@ Blender addon to add natural motion to objects.
 
 ## Installation
 
-1. Download the latest release zip file from the [releases](https://github.com/yourusername/motion-maker/releases) section.
+1. Download the latest zip file.
 2. In Blender, go to `Edit > Preferences > Add-ons > Install`.
 3. Select the downloaded zip file and click `Install Add-on`.
 4. Enable the addon in the preferences.
