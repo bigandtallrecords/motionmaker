@@ -1,4 +1,4 @@
-## Youtube Link Downloader
+## Motion Maker for Blender Add-on
 
 A Blender addon for making any object wiggle or wobble based off of the origin.
 
