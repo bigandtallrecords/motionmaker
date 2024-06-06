@@ -15,15 +15,13 @@ Go to `View3D > Motion Maker` to use the addon.
 
 A Blender addon for making any object wiggle or wobble based off of the origin.
 
-![Alt text](images/motion2.png)
+ ![Alt text](images/motion1.png)
 
 For more of my open source projects keep and eye on my site: 
 https://bigandtallrecords.com/code
 
 dontations welcome
  https://www.paypal.com/paypalme/DanielOdom
-
- ![Alt text](images/motion1.png)
 
  If you like my open-source software you may also like my music
  https://bigandtallrecords.com/music
