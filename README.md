@@ -1,6 +1,6 @@
 ## Youtube Link Downloader
 
-A free open-source Youtube link downloader GUI. Quality settings and audio-only mode.
+A Blender addon for making any object wiggle or wobble based off of the origin.
 
 For more of my open source projects keep and eye on my site: 
 https://bigandtallrecords.com/code
@@ -12,31 +12,22 @@ dontations welcome
 
 ## Requirements
 
-- Python 3.10
-- [PYsimplegui] https://pypi.org/project/PySimpleGUI/
-- [ffmpeg](https://ffmpeg.org/)
-- [pip install yt-dlp] https://github.com/yt-dlp/yt-dlp
-- [brew install yt-dlp] for mac
-- for Mac make sure both brew and ffmpeg are in path
+- Blender 4.1
 
 ## Installation
 
-1. Clone the repository:
+1. Download the .zip or clone Repo
    ```bash
-   git clone https://github.com/bigandtallrecords/youtube.git
-   cd youtube
+   git clone https://github.com/bigandtallrecords/motionmaker.git
+   cd motionmaker
    ```
-2. ````
-   pip install PySimpleGUI 
-   pip install yt-dlp]
-   #or
-   brew install PySimpleGUI
-   brew install yt-dlp
+2. Add to blender Add-On in Prefs.
+````
+   In Prefs add the .zip
+   In 3d view use the "N" menu to reveal 'motionmaker'
    ``````
-
  ## Usage
- - mac - python3 "youtube.py"
- - pc - python "youtube.py"
+ - basically uses noise to generate random movement from origin
 
  ![Alt text](images/youtube.png)
 
