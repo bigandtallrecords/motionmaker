@@ -14,13 +14,11 @@ Blender addon to add natural motion to objects.
 Go to `View3D > Motion Maker` to use the addon.
 
 A Blender addon for making any object wiggle or wobble based off of the origin.
-
  ![Alt text](images/motion1.png)
-
 For more of my open source projects keep and eye on my site: 
 https://bigandtallrecords.com/code
 
-dontations welcome
+Dontations welcome
  https://www.paypal.com/paypalme/DanielOdom
 
  If you like my open-source software you may also like my music
