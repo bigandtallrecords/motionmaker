@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Blender specific
+*.blend[1-9]
+*.blend@
+*.blendbackup
+*.blend[0-9][0-9][0-9]
+.blend~
+
+# Ignore temporary files
+*~
+*.tmp
+*.temp
+*.swp
+.DS_Store
+
+# Ignore zip files
+*.zip
+
+# Ignore personal IDE configurations
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
